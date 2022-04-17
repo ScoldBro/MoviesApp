@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="poster">
+        <item name="android:layout_width">163dp</item>
+        <item name="android:layout_height">257dp</item>
+        <item name="android:layout_margin">12dp</item>
+        <item name="android:background">#fa2255</item>
+        <item name="android:scaleType">centerCrop</item>
+    </style>
+
+    <style name="green_eye">
+        <item name="android:layout_width">30dp</item>
+        <item name="android:layout_height">30dp</item>
+        <item name="android:layout_margin">3dp</item>
+        <item name="android:visibility">invisible</item>
+    </style>
+
+    <style name="image_movie_description">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:adjustViewBounds">true</item>
+        <item name="android:scaleType">centerCrop</item>
+    </style>
+
+    <style name="text_view_movie_description">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">32sp</item>
+        <item name="android:fontFamily">casual</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="check_box_style">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:text">@string/watch_later</item>
+        <item name="android:layout_marginEnd">12dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:buttonTint">#00FF00</item>
+    </style>
+
+</resources>
