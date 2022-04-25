@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".MatrixActivity"
-    android:background="#1C4519">
+    android:background="@color/backgroundMatrix">
 
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
@@ -20,6 +20,14 @@
             app:layout_constraintTop_toTopOf="parent"
             android:contentDescription="@string/matrix" />
 
+        <ImageView
+            android:id="@+id/eye_matrix"
+            style="@style/green_eye"
+            android:layout_margin="24dp"
+            android:src="@drawable/ic_baseline_remove_red_eye_24"
+            app:layout_constraintStart_toStartOf="@+id/imageView"
+            app:layout_constraintTop_toTopOf="@+id/imageView" />
+
         <TextView
             style="@style/text_view_movie_description"
             android:id="@+id/textView"
@@ -29,6 +37,7 @@
             app:layout_constraintTop_toBottomOf="@+id/imageView" />
 
         <CheckBox
+            android:id="@+id/matrix_cb"
             style="@style/check_box_style"
             app:layout_constraintBottom_toBottomOf="@+id/textView"
             app:layout_constraintEnd_toEndOf="parent"
@@ -36,6 +45,7 @@
 
 
         <TextView
+            android:id="@+id/text_view"
             style="@style/text_view_movie_description"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -47,6 +57,13 @@
             android:paddingEnd="12dp"
             android:paddingStart="12dp"
             tools:ignore="RtlSymmetry" />
+
+        <ImageView
+            style="@style/share_view"
+            android:id="@+id/shareMatrix"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/text_view"
+            />
 
     </androidx.constraintlayout.widget.ConstraintLayout>
 </ScrollView>

@@ -15,6 +15,26 @@
         <item name="android:visibility">invisible</item>
     </style>
 
+    <style name="text_main_activity">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:fontFamily">casual</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="button_main_activity">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:text">Описание</item>
+        <item name="textAllCaps">false</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:fontFamily">casual</item>
+        <item name="android:textStyle">italic</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
     <style name="image_movie_description">
         <item name="android:layout_width">match_parent</item>
         <item name="android:layout_height">wrap_content</item>
@@ -35,9 +55,23 @@
         <item name="android:layout_height">wrap_content</item>
         <item name="android:layout_width">wrap_content</item>
         <item name="android:text">@string/watch_later</item>
-        <item name="android:layout_marginEnd">12dp</item>
+        <item name="android:layout_marginEnd">6dp</item>
         <item name="android:textStyle">bold</item>
         <item name="android:buttonTint">#00FF00</item>
     </style>
+
+    <style name="share_view">
+        <item name="android:layout_width">30dp</item>
+        <item name="android:layout_height">30dp</item>
+        <item name="android:src">@drawable/ic_baseline_share_24</item>
+        <item name="android:layout_marginEnd">30dp</item>
+    </style>
+
+    <color name="backgroundAvatar">#93C2FD</color>
+    <color name="backgroundBabyDriver">#FD93CA</color>
+    <color name="backgroundDeadpool">#8F1F1F</color>
+    <color name="backgroundMainHero">#E8C3C3</color>
+    <color name="backgroundMatrix">#1C4519</color>
+    <color name="backgroundWorldHeart">#659C52</color>
 
 </resources>

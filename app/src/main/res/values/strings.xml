@@ -1,30 +1,28 @@
 <resources>
     <string name="app_name">MoviesApp</string>
-    <string name="title_home">Home</string>
-    <string name="title_search">Search</string>
-    <string name="title_settings">Settings</string>
+    <string name="title_home">Домой</string>
+    <string name="title_search">Поиск</string>
+    <string name="title_settings">Настройки</string>
 
-    <string name="avatar_name">Avatar</string>
-    <string name="avatar_description">A paraplegic Marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home.</string>
+    <string name="avatar_name">Аватар</string>
+    <string name="avatar_description">Морской пехотинец с параличом нижних конечностей, отправленный на Луну Пандору с уникальной миссией, разрывается между выполнением его приказов и защитой мира, который он считает своим домом.</string>
 
-    <string name="watch_later">Watch Later</string>
+    <string name="watch_later">Смотреть позже</string>
 
-    <string name="baby_driver">Baby Driver</string>
-    <string name="baby_driver_description">After being coerced into working for a crime boss, a young getaway driver finds himself taking part in a heist doomed to fail.</string>
+    <string name="baby_driver">Малыш на драйве</string>
+    <string name="baby_driver_description">После того, как молодой водитель-беглец вынужден работать на криминального авторитета, он принимает участие в ограблении, обреченном на провал.</string>
 
     <string name="deadpool">DEADPOOL</string>
-    <string name="deadpool_description">A wisecracking mercenary gets experimented on and becomes immortal but ugly, and sets out to track down the man who ruined his looks.</string>
+    <string name="deadpool_description">Над остроумным наемником экспериментируют, и он становится бессмертным, но уродливым, и намеревается выследить человека, который испортил его внешность.</string>
 
-    <string name="matrix">Matrix</string>
-    <string name="matrix_description">When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence.</string>
+    <string name="matrix">Матрица</string>
+    <string name="matrix_description">Когда красивая незнакомка ведет компьютерного хакера Нео в зловещий подземный мир, он узнает шокирующую правду: жизнь, которую он знает, — это изощренный обман злобного кибер-разведки.</string>
 
-    <string name="main_hero">Free Guy</string>'
-    <string name="main_hero_description">A bank teller discovers that he's actually an NPC inside a brutal, open world video game.</string>
+    <string name="main_hero">Главный герой</string>'
+    <string name="main_hero_description">A bank teller discovers that hes actually an NPC inside a brutal, open world video game.</string>
 
-    <string name="world_heart">Serdtse mira</string>
-    <string name="world_heart_description">Egor is a vet at a training facility for hunting dogs in a remote region of the country. Surrounded by foxes, deer, badgers, and dogs, he lives in a small building next to the house of the facility's master. He treats the dogs, cleans the kennels, oversees the workers, and meets with clients and their dogs. It's easier for him to get along with dogs than with people. Egor is willing to take on any job to get closer to the facility's master and his near and dear. He wants the impossible - to become a member of that family.</string>
-
-
+    <string name="world_heart">Сердце мира</string>
+    <string name="world_heart_description">Егор работает ветеринаром в центре дрессировки охотничьих собак в отдаленном регионе страны. Окруженный лисами, оленями, барсуками и собаками, он живет в небольшом здании рядом с домом хозяина помещений. Он лечит собак, убирает в конуре, наблюдает за рабочими и встречается с клиентами и их собаками. Ему легче ладить с собаками, чем с людьми. Егор готов взяться за любую работу, чтобы стать ближе к хозяину объекта и его родным и близким. Он хочет невозможного - стать членом этой семьи.</string>
 
 
 
